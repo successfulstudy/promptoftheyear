@@ -1,1 +1,1 @@
-# newyearprompt
+# This is a collection of prompts which could be helpful for your new year planning including gift selection, tourism planning and etc.
