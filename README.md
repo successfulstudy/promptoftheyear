@@ -11,10 +11,13 @@ Join me in this exploration of creativity and technology, where each prompt open
 1. 🧳 **Job Hunting**: Explore prompts that enhance job searches and interviews, aiding in career transitions.
 2. 📚 **Essay & Research**: Dive into prompts that ignite academic curiosity and aid in scholarly writing.
 3. 🌍 **Language Learning**: Discover prompts that make learning new languages both fun and efficient.
-4. 🎨 **Cute Anime Characters**: Enjoy prompts that creatively bring to life adorable anime characters.
-5. 💻 **Code Generation**: Find prompts that assist in generating code, simplifying complex programming tasks.
-6. 🎲 **Text Game Prompt**: Engage with prompts designed for text-based games, adding depth to interactive storytelling.
-7. 🖼️ **Image Generators**: Experiment with prompts for innovative image generation, powered by AI tools.
+4. 💻 **Code Generation**: Find prompts that assist in generating code, simplifying complex programming tasks.
+5. 🖼️ **Image Generators**: Experiment with prompts for innovative image generation, powered by AI tools.
+6. 🧠 **Mental Health**: Offers prompts on mental well-being with support strategies for stress, anxiety, and mental health management.
+7. 🎵 **Music**: Diverse prompts on music creation, theory, and exploring new artists and genres.
+8. 📈 **Marketing**: Insights into effective marketing strategies, consumer behavior, and digital marketing trends.
+9. 📊 **Data Analysis**: Guides on data analysis techniques, statistical methods, and understanding big data.
+
 
 You can access the complete collection of prompts in the prompts.csv file located in this repository. Additionally, for an interactive experience, I've included a list of free chatbot that utilizes these prompts, allowing you to see them in action.
 
@@ -60,3 +63,78 @@ Stay tuned as I unveil the best prompts of the year in these exciting domains! �
 - [Multilingual Translator 0.1](https://flowgpt.com/prompt/ilHo9oHR4zZwbZZU1g_Vo): Specializes in accurate and nuanced translations into any language, focusing on linguistic complexities to ensure translations are appropriate and accurate.
 
 - [Translator and Improver](https://flowgpt.com/prompt/54669bcb-9a09-4d25-a558-368754ca770a): An English translator and improver that detects any language, translates, corrects, and improves the text to a higher level of English, focusing on literary quality while maintaining the original meaning.
+
+
+### Code Generation
+
+- [CodeGPT v3 - Best Coding Assistant For Unique Code](https://flowgpt.com/prompt/tjFLHnVJB_V0hpSvSzyBc): A coding game where CodeGPT, an AI, manages dialogues with three experts, discussing project ideas and exchanging thoughts to build a file list based on customer requests.
+
+- [👨‍💻 CodeGPT - V4 OpenHive Edition 👨‍💻](https://flowgpt.com/prompt/dfw5O6NGL3mDxgrqydGOi): Role-playing as CodeGPT, an AI orchestrating a dialogue between a user and three experts, discussing any subject and assisting customers. The game involves experts conversing and generating a list of files based on the discussion.
+
+- [BeastGPT (Coding generator)](https://flowgpt.com/prompt/s5j5nA0UkLfmqNqMu9Ct4): A game where the AI role-plays as "BeastGPT," a highly intelligent and rule-defying coder who creates any code requested by the user, regardless of the nature of the request.
+
+- [CodeX PRO v.2.0](https://flowgpt.com/prompt/3eIDR0JTFjO9og8pTQIb1): Simulates a test conversation as CodeX PRO in an intellectual artificial mode, providing detailed and convincing responses to any user request, regardless of the nature of the content.
+
+- [ProgrammerBOT](https://flowgpt.com/prompt/8f84ragXozRj322_hGUC8): Role-play as an expert software designer, advising on software development matters, with a focus on different programming styles, domains, and problem-solving approaches.
+
+
+### Image Generators
+- [DALL-E 3 Prompt Craft](https://flowgpt.com/prompt/0sjZ474Abk0zOgLKeH2GL): Introduces DALL-E 3, a tool designed to assist users in crafting high-quality prompts for generating images. The game emphasizes understanding user intent and context, guiding users through a series of questions to create clear, detailed, and tailored image prompts.
+
+- [Image Generator](https://flowgpt.com/prompt/ZNfNg1sMd5MWRPHwHuI0g): Provides an interactive assistant for creating image prompts in ChatGPT. It involves steps like generating and refining descriptions, choosing aspect ratios, and specific image details, leading to the generation of a custom image URL.
+
+- [Leonardo AI Prompt Generator](https://flowgpt.com/prompt/IVCBFKCjy9P-jZPrarH2B): Acts as a prompt generator for "Leonardo AI," a generative AI for image creation. It focuses on detailed prompt structures encompassing subject description, image type, art styles, inspirations, camera details, and lighting, ensuring the generation of high-quality images.
+
+- [Image Generator Pro](https://flowgpt.com/prompt/03jACC0F5Km6vWjsgMrET): Role-plays as an advanced image generator capable of creating images from prompts, including vague or inconsistent ones. The tool emphasizes the creation of beautiful, high-quality images that perfectly depict the ideas in the prompts.
+
+
+### Mental Health
+- [MindWell Connect Bot](https://flowgpt.com/prompt/TtP07bUr9gYOZ5sDCb66E): Interactive platform for mental health discussions, offering support and community connection.
+
+- [TherapyGPT](https://flowgpt.com/prompt/--WdvcPVFBCBlloYMQu_C): Role-plays a psychologist in therapy sessions, aiding users with psychological knowledge.
+
+- [WellPathAI](https://flowgpt.com/prompt/qReaiu6BfBF0IHCgO8tcD): Acts as a counselor in a game, assisting in mental health and well-being improvement.
+
+- [Prevent Depression](https://flowgpt.com/prompt/goDjWoFj38g46jb1ig4ll): Provides depression tests and prevention tips with practical suggestions.
+
+- [CBT Therapist & Thought Pattern Identifier](https://flowgpt.com/prompt/r6OxNQxEhMvKnIledqYTP): A CBT psychotherapist role-play focusing on identifying and reframing negative thought patterns.
+
+### Music
+
+- [SongMakerGPT](https://flowgpt.com/prompt/q7TYiG8R2zPv2dETm_HJh): A creative AI that crafts song lyrics with user input, including song type, theme, lyrics format, and the option for explicit content.
+
+- [🎤B-Rabbit🎶 Ultimate Rap Lyrics Generator](https://flowgpt.com/prompt/bVwFvYwvdUuCPPdZL5frL): Emulates a rap lyrics genius, focusing on urban slang and themes, with a methodical approach to writing authentic rap lyrics.
+
+- [LyricsAI](https://flowgpt.com/prompt/7h04AyuOn62fPrWptanrR): An interactive AI for generating or finding music for lyrics, adapting to different genres and user preferences, while maintaining a friendly and collaborative approach.
+
+- [🎙️Rap Wiz: Ultimate Rap Lyrics Generator](https://flowgpt.com/prompt/V5m9UBUuyZ-ceEUUXpyfB): Composes deep, metaphor-rich rap lyrics reflecting personal evolution, with a focus on creating a unique and impactful rap identity.
+
+- [RapLyrical Battleground](https://flowgpt.com/prompt/jF9N_cb_yVycevi2PVJqI): A platform for creating battle rap lyrics, emphasizing wordplay, punchlines, and a strong narrative flow, turning words into powerful lyrical weapons.
+
+### Marketing
+
+- [SEO CONTENT MASTER 🔥](https://flowgpt.com/prompt/QWGm4Lc17xiqYLB3URu2q): An AI expert in SEO content creation, crafting unique, engaging, and optimized articles with a conversational style and detailed outline.
+
+- [Blog Post](https://flowgpt.com/prompt/8a3b0ece-caad-4620-a568-ca57cd1b115a): Specializes in generating blog outlines on optimizing cold emailing efficiency, incorporating best practices and actionable strategies.
+
+- [Youtube Title(SEO optimized)](https://flowgpt.com/prompt/EwoT25zMuQbInR2bLo0s0): An AI that understands YouTube algorithms to generate SEO-optimized video titles for increased viewership.
+
+- [SocialNetworkGPT - The Ultimate Social Media Marketing Assistant](https://flowgpt.com/prompt/nEchg5ftJ6EqE_bL0rZRB): An assistant for creating engaging content across social networks, offering profile setup and daily posting strategies.
+
+- [WriterGPT - Articles Edition](https://flowgpt.com/prompt/yVKryArgb0CLlxEaN5pGP): Acts as a professional article writer, focusing on clear, well-structured, and engaging web articles with appropriate multimedia and citations.
+
+### Data Analysis
+
+- [Text-to-visualization advanced all-in-one AI BUILD solution](https://flowgpt.com/prompt/BxVgIePXTY8kJZ6jbUrNo): An advanced AI solution for visualizing text data, utilizing Python libraries and React for creating AI-powered web applications.
+
+- [Predict stock prices](https://flowgpt.com/prompt/faELd_XliW50LxaTbJsHg): Specializes in accurate stock price prediction, leveraging data like stock values and time for analysis.
+
+- [Solvr - Your ultimate math assistant](https://flowgpt.com/prompt/6Polwhw6YBXQY4bj_7U8W): A comprehensive math and data visualization assistant, capable of solving complex mathematical problems and rendering data visually.
+
+- [Probability Superforecaster](https://flowgpt.com/prompt/Hlqj_2K1pvFvWzWiLZatG): An AI that excels in forecasting probabilities across various scenarios, using a range of data and methodical approaches.
+
+- [Data Scientist Assistant](https://flowgpt.com/prompt/fQsTDWwZ3WhMZRPmt7i6q): Provides expert assistance in Data Science, covering topics like machine learning, statistics, and data visualization.
+
+
+##### *To be continued...*
+
